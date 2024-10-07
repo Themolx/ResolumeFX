@@ -1,5 +1,7 @@
 # Vectorscope FX for Resolume
 
+Made by Martin Tomek
+
 ## Overview
 A real-time vectorscope effect for VJing in Resolume, inspired by color grading tools.
 
